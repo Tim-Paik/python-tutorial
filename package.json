@@ -1,5 +1,5 @@
 {
-  "name": "hexo-site",
+  "name": "python-tutorial",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -24,6 +24,6 @@
     "hexo-renderer-marked": "^5.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^3.0.0",
-    "hexo-theme-icarus": "git@github.com:Tim-Paik/hexo-theme-icarus.git#5.0.0-rc.1"
+    "hexo-theme-icarus": "Tim-Paik/hexo-theme-icarus.git#master"
   }
 }

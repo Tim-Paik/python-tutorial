@@ -1,4 +1,4 @@
-title: 从零开始的Python教程
+title: Re:从零开始的Python之旅
 subtitle: ''
 description: ''
 keywords: null
@@ -6,7 +6,7 @@ author: Tim-Paik
 language: zh-CN
 timezone: 'Asia/Shanghai'
 url: https://python.timpaik.top
-permalink: ':category/:title/'
+permalink: ':title/'
 permalink_defaults: null
 pretty_urls:
   trailing_index: false

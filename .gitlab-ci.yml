@@ -1,0 +1,17 @@
+image: node:12-alpine
+cache:
+  paths:
+    - node_modules/
+
+before_script:
+  - npm install hexo-cli -g
+  - yarn install
+
+pages:
+  script:
+    - hexo generate
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
